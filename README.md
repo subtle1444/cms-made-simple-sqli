@@ -1,2 +1,3 @@
 # cms-made-simple-sqli
-cms made simple sql injection rewritten in python3. exploit works on cms made simple &lt; 2.2.10
+Unauthenticated SQL Injection on CMS Made Simple <= 2.2.9
+made for legal usage only
